@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Aleksandar Mijatovic
 Maintainer: The package maintainer <aleksmijatovic...@gmail.com>
 Description: This R Package contains function for manipulation of String values.
-Included are...
+Included are
     concatenate_strings()
     This function concatenates two character strings with a space in between them. It takes two input strings and combines them into a single string, ensuring there is a space separating the original strings.
     reverse_string() 
