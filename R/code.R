@@ -5,7 +5,7 @@
 #' @param str1 A character string.
 #' @param str2 A character string.
 #'
-#' @return A single character string with str1 and str2 concatenated with a space in between.
+#' @return single character string with str1 and str2 concatenated with a space in between.
 #' @examples
 #' concatenate_strings("Hello", "World")
 #' @export
