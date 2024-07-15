@@ -12,7 +12,7 @@ concatenate_strings(str1, str2)
 \item{str2}{A character string.}
 }
 \value{
-A single character string with str1 and str2 concatenated with a space in between.
+single character string with str1 and str2 concatenated with a space in between.
 }
 \description{
 This function takes two strings and concatenates them with a space in between.
